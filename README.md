@@ -14,3 +14,5 @@ Determining the most commonly ordered pizza size.
 Listing the top 5 most ordered pizza types along with their quantities.
  
 Using SQL, we answered these business questions with precise queries, while Power BI brought those insights to life through clear visualizations—such as total revenue, pizza size distribution, top-selling pizzas, and category-based performance. This integrated approach offers a holistic view of the business and helps in making informed decisions.
+
+Dashboard: https://github.com/Mayank392/Pizza-sales-project/blob/main/Pizza_sales_dashboard.png
